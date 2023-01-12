@@ -1,0 +1,13 @@
+bokeh
+flake8
+livelossplot
+matplotlib
+numpy
+torch
+scikit-learn
+scikit-optimize
+scipy
+seaborn
+torchvision
+natsort
+pycm
